@@ -1,8 +1,8 @@
-# Pieter Keuzenkamp Websites
+# SlimmeAutomatisering.nl
 
-Welcome to **Pieter Keuzenkamp Websites**, where we specialize in developing custom websites and webshops tailored for freelancers, small businesses, and entrepreneurs. We combine cutting-edge web development techniques, AI automation, and our expertise in SEO and online marketing to create digital solutions that increase your revenue and productivity.
+Welcome to **SlimmeAutomatisering.nl**, where we specialize in developing custom websites and webshops tailored for freelancers, small businesses, and entrepreneurs. We combine cutting-edge web development techniques, AI automation, and our expertise in SEO and online marketing to create digital solutions that increase your revenue and productivity.
 
-## About Pieter Keuzenkamp
+## About The Founder
 Pieter Keuzenkamp is a passionate web developer and business consultant dedicated to empowering small businesses with technology. With a focus on innovation and customer-centric solutions, Pieter has helped numerous clients establish a strong online presence and achieve their business goals.
 
 ## Parent Enterprise: Slimme Automatisering
@@ -12,7 +12,7 @@ Pieter Keuzenkamp Websites operates under the umbrella of **Slimme Automatiserin
 - **Custom Development**: Tailored tools to meet unique business needs.
 - **Strategic Consulting**: Expertise in implementing digital transformation strategies.
 
-Together, Pieter Keuzenkamp Websites and Slimme Automatisering deliver integrated solutions that help businesses thrive in the digital age.
+Together, Pieter Keuzenkamp and Slimme Automatisering deliver integrated solutions that help businesses thrive in the digital age.
 
 ## Services
 - Custom websites and webshops
