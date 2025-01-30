@@ -6,13 +6,13 @@ Welcome to **SlimmeAutomatisering.nl**, where we specialize in developing custom
 Pieter Keuzenkamp is a passionate web developer and business consultant dedicated to empowering small businesses with technology. With a focus on innovation and customer-centric solutions, Pieter has helped numerous clients establish a strong online presence and achieve their business goals.
 
 ## Parent Enterprise: Slimme Automatisering
-Pieter Keuzenkamp Websites operates under the umbrella of **Slimme Automatisering** ([slimmeautomatisering.nl](https://slimmeautomatisering.nl)), a forward-thinking enterprise dedicated to smart automation solutions. Slimme Automatisering provides:
+SlimmeAutomatisering.nl operates under the umbrella of **Slimme Automatisering** ([slimmeautomatisering.nl](https://slimmeautomatisering.nl)), a forward-thinking enterprise dedicated to smart automation solutions. Slimme Automatisering provides:
 
 - **AI-Powered Automation**: Streamlining business processes with intelligent solutions.
 - **Custom Development**: Tailored tools to meet unique business needs.
 - **Strategic Consulting**: Expertise in implementing digital transformation strategies.
 
-Together, Pieter Keuzenkamp and Slimme Automatisering deliver integrated solutions that help businesses thrive in the digital age.
+Together, SlimmeAutomatisering.nl and Slimme Automatisering deliver integrated solutions that help businesses thrive in the digital age.
 
 ## Services
 - Custom websites and webshops
